@@ -17,12 +17,13 @@ header ul{
 }
 
 .button_1{
-    height:30px;
+    height:20px;
     background:#e8491d;
     border:0;
     padding-left: 20px;
     padding-right: 20px;
     color:#ffffff;
+    margin-top:15px;
 }
 
 .dark{
@@ -31,6 +32,14 @@ header ul{
     color:#ffffff;
     margin-top:10px;
     margin-bottom:10px;
+}
+
+.dark2{
+    padding:15px;
+    background:#008080;
+    color:#d14949;
+    margin-top:10px;
+    margin-bottom:10px;  
 }
 
 /* Header */
@@ -113,7 +122,7 @@ header a:hover{
 
 #newsletter: input[type="email"]{
     padding:4px;
-    height:25px;
+    height:20px;
     width:250px;
 }
 
@@ -142,7 +151,7 @@ aside#sidebar{
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
     width:90%;
-    padding:5px;
+    padding:6px;
 }
 
 /* Main-col */
