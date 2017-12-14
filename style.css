@@ -28,16 +28,16 @@ header ul{
 
 .dark{
     padding:15px;
-    background:#35424a;
-    color:#ffffff;
+    background:#add8e6;
+    color:#000000;
     margin-top:10px;
     margin-bottom:10px;
 }
 
 .dark2{
     padding:15px;
-    background:#008080;
-    color:#d14949;
+    background:#35424a;
+    color:#ffffff;
     margin-top:10px;
     margin-bottom:10px;  
 }
@@ -145,12 +145,12 @@ header a:hover{
 /* Sidebar*/
 aside#sidebar{
     float:right;
-    width:30%;
+    width:25%;
     margin-top: 10px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
-    width:90%;
+    width:100%;
     padding:6px;
 }
 
@@ -172,8 +172,8 @@ ul#services li{
 footer{
     padding:20px;
     margin-top:20px;
-    color:#000000;
-    background-color:#add8e6;
+    color:#ffffff;
+    background-color:#0000a0;
     text-align: center;
 }
 
